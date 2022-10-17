@@ -1,10 +1,11 @@
-[![Header](![(assets/blog3.jpg)]
+[![Header](![(https://github.com/annastagithub/annastagithub/blob/a4293e385dd497dae228349fc90c90b6d0746a50/assets/blog3.jpg)]
 
-### Hi there 👋
+## Hi there 👋
 
 ## About me
 
-## Link to my CV [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## My CV 
+[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 
 ## Tools
