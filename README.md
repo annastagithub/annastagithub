@@ -1,4 +1,4 @@
-[![Header](![(https://github.com/annastagithub/annastagithub/blob/a4293e385dd497dae228349fc90c90b6d0746a50/assets/blog3.jpg)]
+[![Header](https://github.com/annastagithub/annastagithub/blob/a4293e385dd497dae228349fc90c90b6d0746a50/assets/blog3.jpg)]
 
 ## Hi there 👋
 
