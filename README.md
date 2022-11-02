@@ -21,6 +21,7 @@ My name is Anastasia and I'm a QA Engineer.
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=fiddler&logoColor=7E4798)
 ![Header](https://img.shields.io/badge/Fiddler_Everywhere-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
 
 
 ## Testing documentation
