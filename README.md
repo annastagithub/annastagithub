@@ -4,7 +4,7 @@
 My name is Anastasia and I'm a QA Engineer.
 
 ## My CV 
-[Link to my CV](https://www.linkedin.com/in/anastasia-kazei/)  
+[Link to my CV](https://drive.google.com/file/d/1HCW_4cqeHCO896_WWQmUhfbQXl5YcjeI/view?usp=share_link)  
 
 [Link to EF SET Certificate](https://github.com/annastagithub/annastagithub/blob/main/assets/EF%20SET%20Certificate%20Anastasia%20Kazei.pdf)
 
