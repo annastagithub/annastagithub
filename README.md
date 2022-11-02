@@ -18,10 +18,9 @@ My name is Anastasia and I'm a QA Engineer.
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=fiddler&logoColor=7E4798)
-![Header](https://img.shields.io/badge/Fiddler_Everywhere-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
-![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
+![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=7E4798)
+![Header](https://img.shields.io/badge/fiddlereverywhere-090909?style=for-the-badge&logo=Fiddler_Everywhere&logoColor=8cc4d7)
 
 
 ## Testing documentation
