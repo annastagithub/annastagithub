@@ -18,11 +18,9 @@ My name is Anastasia and I'm a QA Engineer.
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
-![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=Charles&logoColor=7E4798)
-![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=jag&logoColor=7E4798)
-![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=Charlesproxy&logoColor=7E4798)
-![Header](https://img.shields.io/badge/fiddler-090909?style=for-the-badge&logo=FiddlerEverywhere&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=trainerroad&logoColor=71b556)
+![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=c&logoColor=7E4798)
+![Header](https://img.shields.io/badge/fiddler-090909?style=for-the-badge&logo=Fortran&logoColor=8cc4d7)
 
 
 ## Testing documentation
