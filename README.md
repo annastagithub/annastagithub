@@ -21,9 +21,7 @@ My name is Anastasia and I'm a QA Engineer.
 
 
 ## Testing documentation
-- Checklists
-- Test-Suites and Test-Cases
-- Bug-Reports
+- [Checklists and Test-Cases](https://docs.google.com/spreadsheets/d/1Dr3I9vViuU7WhoMuMQBdkNXurfeeTJjo6aVfcQV0pZc/edit?usp=sharing)
 - SQL Queries
 - Postman Collections
 
