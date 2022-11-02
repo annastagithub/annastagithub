@@ -19,7 +19,7 @@ My name is Anastasia and I'm a QA Engineer.
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Header](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=fiddler&logoColor=7E4798)
 ![Header](https://img.shields.io/badge/Fiddler_Everywhere-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 
 
